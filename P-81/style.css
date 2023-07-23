@@ -1,0 +1,16 @@
+#bodybackground{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    border-style: dashed;
+    border-width: 15px;
+    border-color: black;
+}
+#heading{
+    font-weight: bold;
+    color:red;
+}
+#btn{
+    background-color: blue;
+    border-radius: 50%;
+}
